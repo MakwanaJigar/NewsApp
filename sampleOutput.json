@@ -1,0 +1,285 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jihye Lee",
+      "title": "Japanese trading houses rise as Warren Buffett says he plans on buying more - CNBC",
+      "description": "Buffett said he was \"very proud\" of these investments and that he plans to meet with the companies to emphasize Berkshire Hathaway's support.",
+      "url": "https://www.cnbc.com/2023/04/11/berkshire-japan.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107222944-1681182498818-gettyimages-133853538-BUFFETT_FUKUSHIMA.jpeg?v=1681185666&w=1920&h=1080",
+      "publishedAt": "2023-04-11T04:01:06Z",
+      "content": "Shares of Japanese trading houses rose in Tuesday afternoon trade after Warren Buffett, chairman and CEO of Berkshire Hathaway, said he plans to increase his holdings.\r\nIn an interview with Nikkei, B… [+1762 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "James Rubin",
+      "title": "First Mover Asia: Arthur Hayes Sees a 'Balkanization of Finance' Coming Soon as Crypto Rallies - CoinDesk",
+      "description": "ALSO: Asia-Based Traders Push Bitcoin Past $30K",
+      "url": "https://www.coindesk.com/markets/2023/04/11/first-mover-asia-arthur-hayes-sees-a-balkanization-of-finance-coming-soon-as-crypto-rallies/",
+      "urlToImage": "https://www.coindesk.com/resizer/O4AqpX9ra0Gz82R6WQ7wESg7IfU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KUGFRLFYLZCMXH5QVPHY7XKGUA.jpg",
+      "publishedAt": "2023-04-11T03:39:00Z",
+      "content": "Good morning. Heres whats happening:\r\nPrices: Bitcoin and ether are well within the green as they near highs not seen since the Covid-induced bull market.\r\nInsights: For former BitMex CEO Arthur Haye… [+7002 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Twitter Ex-CEO Parag Agrawal, 2 Others Sue Elon Musk Over Legal Bills - NDTV",
+      "description": "Three top Twitter executives who were sacked by Elon Musk last year when he took over the social media company filed suit, seeking to be reimbursed for costs of litigation, investigations and congressional inquiries related to their former jobs.",
+      "url": "https://www.ndtv.com/world-news/twitter-ex-ceo-parag-agrawal-2-others-sue-elon-musk-over-legal-bills-3937372",
+      "urlToImage": "https://c.ndtvimg.com/2022-10/0u8mo5v_parag-agrawal-twitter-severance-afp-650_625x300_28_October_22.jpg",
+      "publishedAt": "2023-04-11T03:24:27Z",
+      "content": "The three former executives argue that Twitter is bound by agreements to reimburse them\r\nSan Francisco: Three top Twitter executives who were sacked by Elon Musk last year when he took over the socia… [+2314 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "Wesley Hilliard",
+      "title": "Twitter Inc. no longer exists, now X Corp. - AppleInsider",
+      "description": "Elon Musk-owned X Corp. has absorbed Twitter Inc. as the first step to becoming an \"everything app\" similar to China's WeChat.",
+      "url": "https://appleinsider.com/articles/23/04/11/twitter-inc-no-longer-exists-now-x-corp",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/53905-108459-Twitter-xl.jpg",
+      "publishedAt": "2023-04-11T02:56:40Z",
+      "content": "Twitter Inc. is now X Corp.\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nElon Musk-owned X Corp. has absorbed Twitter Inc. as the first step to becomin… [+1891 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sheila Chiang",
+      "title": "Alibaba to roll out its rival to ChatGPT across all its products - CNBC",
+      "description": "Alibaba Cloud, the cloud computing unit of Chinese tech giant, announced it will be rolling out its own ChatGPT-style product Tongyi Qianwen in \"the near future.\"",
+      "url": "https://www.cnbc.com/2023/04/11/alibaba-to-roll-out-its-rival-to-chatgpt-across-all-its-products.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107222914-1681174682202-gettyimages-1249840265-CHINA_ALIBABA.jpeg?v=1681178514&w=1920&h=1080",
+      "publishedAt": "2023-04-11T02:01:00Z",
+      "content": "Alibaba Cloud, the cloud computing unit of Chinese tech giant Alibaba, announced Tuesday it will be rolling out its own ChatGPT-style product Tongyi Qianwen.\r\nTongyi Qianwen, which possess Chinese an… [+2072 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "San Francisco Chronicle"
+      },
+      "author": "Joel Umanzor, J D Morris",
+      "title": "Whole Foods closing Civic Center store in S.F. over 'safety' concerns - San Francisco Chronicle",
+      "description": "The closure comes just a year after the store opened at the Trinity S.F. apartment building at Market and Eighth streets in March 2022.",
+      "url": "https://www.sfchronicle.com/sf/article/whole-foods-closing-civic-center-store-s-f-17889427.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/32/21/63/23665899/6/rawImage.jpg",
+      "publishedAt": "2023-04-11T01:54:24Z",
+      "content": "Whole Foods Market has temporarily closed its downtown San Francisco location Monday after business hours due to public safety issues, according to a spokesperson for the company.The closure comes ju… [+3232 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "James Rubin",
+      "title": "Bitcoin Breaks Above $30K for First Time Since June 2022 - CoinDesk",
+      "description": "The move continues a 2023 rally that has now seen the most popular crypto gain more than 80%.",
+      "url": "https://www.coindesk.com/business/2023/04/11/bitcoin-breaks-above-30k-for-first-time-since-june-2022/",
+      "urlToImage": "https://www.coindesk.com/resizer/FlmT49-WHjePAtGCVoMR6y1r-Dc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/K75KTVMIJBBURPG23AZPYH3NBE.jpg",
+      "publishedAt": "2023-04-11T01:54:00Z",
+      "content": "Bitcoin (BTC) moved past the $30,000 level for the first time since June 10, 2022 as March's banking turbulence faded further into the distance and investors grew more optimistic about U.S. central b… [+3264 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "KKTV 11 News"
+      },
+      "author": null,
+      "title": "“It’s a great iconic view,” Community shares memories in the rubble of Colorado Springs icon - KKTV",
+      "description": "The new location is set to open fall of 2024.",
+      "url": "https://www.kktv.com/2023/04/11/its-great-iconic-view-community-shares-memories-rubble-colorado-springs-icon/",
+      "urlToImage": "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/IL2HCHcK6s5ANhN-U2GP5SQAORc=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/5V6ZX6FLPBHDRIPDP7FUUTK5UA.jpg",
+      "publishedAt": "2023-04-11T00:47:00Z",
+      "content": "COLORADO SPRINGS, Colo. (KKTV) - Almost 50 years after the opening of the Sunbird Mountain Grill, crowds gathered around the building as it was torn down Monday.\r\nThe restaurant has become known by i… [+3255 chars]"
+    },
+
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Felipe Marques, Amanda L Gordon",
+      "title": "Citadel Splits From Sterling Bay on New Miami Waterfront Tower - Bloomberg",
+      "description": "Ken Griffin’s Citadel is cutting ties with Sterling Bay, the developer that it partnered with on its new Miami headquarters.",
+      "url": "https://www.bloomberg.com/news/articles/2023-04-11/citadel-splits-from-sterling-bay-on-new-miami-waterfront-tower",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ig0OIjsWrrtA/v0/1200x800.jpg",
+      "publishedAt": "2023-04-11T00:40:00Z",
+      "content": "Ken Griffin’s Citadel is cutting ties with Sterling Bay, the developer that it partnered with on its new Miami headquarters.\r\nCitadel will handle some of the work related to the $1 billion waterfront… [+164 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jihye Lee",
+      "title": "Asia markets rise ahead of Bank of Korea's rate decision - CNBC",
+      "description": "The Bank of Korea held rates at 3.50% for a second consecutive time as the nation grapples with an inflation rate of 4.2%.",
+      "url": "https://www.cnbc.com/2023/04/11/asia-markets.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107222881-1681168866885-gettyimages-627754270-img_0761.jpeg?v=1681169900&w=1920&h=1080",
+      "publishedAt": "2023-04-11T00:38:00Z",
+      "content": "Bank of Japan governor Kazuo Ueda emphasized in his inaugural briefing his intention to \"maintain unconventional monetary policies,\" Nikkei reported.\r\nHe said it is \"appropriate\" to maintain the cent… [+641 chars]"
+    },
+
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "US proposes to slash EV mileage ratings to meet fuel economy rules - Reuters",
+      "description": "The U.S. Energy Department (DOE) on Monday proposed reducing electric vehicles' (EV) mileage ratings to meet government fuel economy requirements, a move that could force automakers to sell more low-emissions cars or improve conventional models.",
+      "url": "https://www.reuters.com/business/autos-transportation/us-proposes-slash-ev-mileage-ratings-meet-fuel-economy-rules-2023-04-11/",
+      "urlToImage": "https://www.reuters.com/resizer/UwLtMqV_gpseEE_HENLzr7IwbxY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7FFYNOHKT5LBFAMW7YKTWTY63A.jpg",
+      "publishedAt": "2023-04-11T00:29:00Z",
+      "content": "WASHINGTON, April 10 (Reuters) - The U.S. Energy Department (DOE) on Monday proposed reducing electric vehicles' (EV) mileage ratings to meet government fuel economy requirements, a move that could f… [+3031 chars]"
+    },
+
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "China's consumer inflation hits 18-month low amid uneven recovery - Reuters",
+      "description": "China's consumer inflation hit an 18-month low and factory-gate price declines sped up in March as demand stayed persistently weak, shoring up the case for policymakers to take more steps to support the uneven economic recovery.",
+      "url": "https://www.reuters.com/world/china/chinas-march-consumer-inflation-lowest-since-sept-2021-2023-04-11/",
+      "urlToImage": "https://www.reuters.com/resizer/B5sxA8liXnIZaxbhAeh9zpGk9X0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LMVK5OFAPVJEJL4UVXM7V423AQ.jpg",
+      "publishedAt": "2023-04-11T00:25:44Z",
+      "content": "BEIJING, April 11 (Reuters) - China's consumer inflation hit an 18-month low and factory-gate price declines sped up in March as demand stayed persistently weak, shoring up the case for policymakers … [+3709 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hannah Miller",
+      "title": "Elizabeth Warren, AOC Ask SVB Depositors to Detail Ties to Bank - Yahoo Finance",
+      "description": "(Bloomberg) -- Senator Elizabeth Warren of Massachusetts and Representative Alexandria Ocasio-Cortez of New York sent letters Sunday to 14 of the largest...",
+      "url": "https://news.yahoo.com/warren-ocasio-cortez-write-letters-110135897.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uiQE193xJlhGZHpJbeXRRw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_politics_602/615700025468e1ced8c200e59ea7ae10",
+      "publishedAt": "2023-04-11T00:08:00Z",
+      "content": "(Bloomberg) -- Senator Elizabeth Warren of Massachusetts and Representative Alexandria Ocasio-Cortez of New York sent letters Sunday to 14 of the largest depositors with Silicon Valley Bank that rais… [+2927 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell",
+      "title": "Apple computer shipments fell 40% from a year ago, report finds - Fox Business",
+      "description": "A report by the International Data Corporation found that global shipments of personal computers fell 29% in Q1 of 2023 with Apple shipments falling by 40%.",
+      "url": "https://www.foxbusiness.com/markets/apple-computer-shipments-fell-40-percent-year-ago-report",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/06/0/0/Apple-store-logo-A.jpg?ve=1&tl=1",
+      "publishedAt": "2023-04-11T00:03:35Z",
+      "content": "Global shipments of personal computers declined by nearly one-third compared to a year ago with Apple’s products experiencing the largest year-over-year drop, according to a new report.\r\nGlobal shipm… [+3202 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "Neirin Gray Desai",
+      "title": "Bud Light distributors in the Heartland and the South are 'spooked' - Daily Mail",
+      "description": "Bud Light sales have plunged and its distributors in the Midwest, the South, and rural areas are 'spooked' in the aftermath of a partnership with Dylan Mulvaney.",
+      "url": "https://www.dailymail.co.uk/news/article-11958283/Bud-Light-distributors-Heartland-South-spooked.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2023/04/11/00/69684871-0-image-a-6_1681170667666.jpg",
+      "publishedAt": "2023-04-10T23:58:14Z",
+      "content": "Bud Light sales have plunged and its distributors in the Midwest, the South, and rural areas are 'spooked' by backlash after the company partnered with trans TikToker Dylan Mulvaney.\r\nDistributors fo… [+3559 chars]"
+    },
+
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Joe Miller",
+      "title": "Jes Staley must face Jeffrey Epstein claims alongside JPMorgan, judge rules - Financial Times",
+      "description": "Bank’s lawsuit against former executive will be heard together with allegations against lender",
+      "url": "https://www.ft.com/content/b5722a0c-ad7e-4160-b153-7db123e41843",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7385c95d-161c-405e-a277-ecd66929f812.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2023-04-10T23:36:48Z",
+      "content": "Jes Staley, the former JPMorgan Chase executive who is being sued by the bank for allegedly failing to disclose his participation in Jeffrey Epsteins sex crimes, must face trial alongside his former … [+3512 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "Simon Watkins",
+      "title": "Saudi- U.S. Relations Sour Further On Huge OPEC Surprise Cut - OilPrice.com",
+      "description": "With the large production cut and approval of a plan to join the Shanghai Cooperation Organisation, Saudi Arabia has now decisively shifted into the China-Russia sphere of influence",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-US-Relations-Sour-Further-On-Huge-OPEC-Surprise-Cut.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-04-10_gzrq3bm6hl.jpg",
+      "publishedAt": "2023-04-10T23:00:00Z",
+      "content": "Saudi Aramco announced this week…\r\nBaytex's merger with Ranger Oil…\r\nOil spills and environmental contamination…\r\nBy Simon Watkins - Apr 10, 2023, 6:00 PM CDTThe surprise huge new cut in oil producti… [+8622 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Futures: Big Bank Earnings, Key Inflation Data Due Out - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-key-inflation-data-big-bank-earnings-due-apple-pioneer-tesla-in-focus/",
+      "urlToImage": null,
+      "publishedAt": "2023-04-10T22:28:00Z",
+      "content": null
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "KOAT New Mexico"
+      },
+      "author": "Vince Rodriguez",
+      "title": "Huge law enforcement presence at Tamaya Resort - KOAT New Mexico",
+      "description": "Police have cleared Tamaya Resort following a report of a shooter at the resort.",
+      "url": "https://www.koat.com/article/new-mexico-tamaya-hotel-resort-shooter/43557937",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/tamaya-resort-police-64348f64d3c3d.png?crop=0.960xw:1.00xh;0.0208xw,0&resize=1200:*",
+      "publishedAt": "2023-04-10T22:20:00Z",
+      "content": "The FBI has cleared Tamaya Resort and says there was no threat or subject located after a police responded to the resort after a report of a possible shooter.\r\nHere's everything we know about the inc… [+540 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "WGAL Susquehanna Valley Pa."
+      },
+      "author": null,
+      "title": "Pennsylvania to hold unclaimed property auction - WGAL Susquehanna Valley Pa.",
+      "description": "The 4,250 items up for bids include fine jewelry, coins and currency.",
+      "url": "https://www.wgal.com/article/pennsylvania-unclaimed-property-auction-april-12-13-2023/43555817",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/unclaimed-property-auction-643463f9f3ba2.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2023-04-10T22:13:00Z",
+      "content": "You'll have the opportunity this week to bid on some of the unclaimed property in the Pennsylvania Treasury vault.\r\nAn online auction will be held on Wednesday, April 12, and Thursday, April 13.\r\nThe… [+1231 chars]"
+    }
+  ]
+}
